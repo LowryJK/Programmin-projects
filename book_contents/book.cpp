@@ -16,9 +16,6 @@
 /*
  * Program author:
  * Name: Lauri Koivuniemi
- * Student number: 150349378
- * UserID: smlako
- * E-Mail: lauri.koivuniemi@tuni.fi
  * */
 
 #include "book.hh"
