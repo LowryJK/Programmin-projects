@@ -1,0 +1,2 @@
+This project is written in C++. In this project we managed a book. For example you can open and close chapters, count the subchapters and parentchapters of a certain chapter and
+print the length of a chapter and its' subchapters. In this project I used dynamic memory allocation, recursion and object-oriented programming.
