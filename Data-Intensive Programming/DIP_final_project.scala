@@ -1,3 +1,5 @@
+// In this project I took part in the Basic Tasks 4, 6 and 7 and the Additional Task 2.
+
 
 // import statements for the entire notebook
 import org.apache.spark.{SparkConf, SparkContext}
